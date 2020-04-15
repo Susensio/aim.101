@@ -2,7 +2,7 @@
 
 Programming assignments and related code for [MIT 6.006 Course](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/index.htm) as taught in fall 2011.
 
-Part of my self-made [Artificial Intelligence Master](github.com/Susensio/artificial-intelligence-master/).
+Part of my self-made [Artificial Intelligence Master](https://github.com/Susensio/artificial-intelligence-master).
 
 ## Problem sets
 
